@@ -1,0 +1,14 @@
+{
+    "name": "canni/yiimongodbsuite",
+    "description": "YiiMongoDbSuite for Yii framework.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "YiiMongoDbSuite": "src/"
+        }
+    }
+}
